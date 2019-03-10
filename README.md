@@ -1,8 +1,8 @@
 # Ata
 
-> axios + random useragent + encode url + ...
-> fetch style requests with `$` prefixed methods, like [axios-module](https://github.com/nuxt-community/axios-module)
-> support proxy string config like `127.0.0.1:9000`
+- axios + random useragent + encode url + ...
+- fetch style requests with `$` prefixed methods, like [axios-module](https://github.com/nuxt-community/axios-module)
+- support string proxy config like `127.0.0.1:9000`
 
 ## Install
 
