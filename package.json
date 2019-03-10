@@ -1,6 +1,6 @@
 {
   "name": "ata",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "axios + random useragent + encode url + ...",
   "author": "Yahtnif <yahtnif@gmail.com>",
   "main": "index.js",
