@@ -33,4 +33,4 @@ go()
 
 ## License
 
-[996ICU Licence](./LICENSE)
+[996ICU](./LICENSE)
