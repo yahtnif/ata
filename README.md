@@ -1,6 +1,6 @@
 <div align="center">
 	<div>
-		<img width="300" height="290" src="https://github.com/yahtnif/static/raw/master/logo/ata.svg?sanitize=true" alt="ata">
+		<img width="300" src="https://github.com/yahtnif/static/raw/master/logo/ata.svg?sanitize=true" alt="ata">
 	</div>
 </div>
 
@@ -38,4 +38,4 @@ go()
 
 ## License
 
-[996ICU](./LICENSE)
+[Anti 996](./LICENSE)
