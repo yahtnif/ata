@@ -1,5 +1,4 @@
 const axios = require('axios');
-const randomMua = require('random-mua');
 const encodeUrl = require('encodeurl');
 
 const Ata = axios.create();
@@ -7,10 +6,6 @@ const Ata = axios.create();
 Ata.interceptors.request.use(
   function(config) {
     config.url = encodeUrl(config.url);
-
-    if (!config.headers['User-Agent']) {
-      config.headers['User-Agent'] = randomMua();
-    }
 
     if (config.proxy && typeof config.proxy === 'string') {
       const [host, port] = config.proxy.split(':');
