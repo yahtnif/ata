@@ -30,7 +30,7 @@
   ],
   "license": "Anti 996",
   "dependencies": {
-    "axios": "0.19.2",
+    "axios": "1.6.0",
     "encodeurl": "^1.0.2"
   },
   "devDependencies": {
